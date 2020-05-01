@@ -1,3 +1,4 @@
 module.exports = {
-    dbUrl :"mongodb://localhost:27017/Ecommerce"
-}
+  mongoURL: "mongodb://localhost:27017/test",
+  serverPort: "3000"
+};
